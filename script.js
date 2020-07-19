@@ -1,6 +1,3 @@
-// Assignment 5: Tic Tac Toe
-// Your name here
-
 var origBoard;
 const huPlayer = "o";
 const aiPlayer = "x";
